@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+# Virtual environment
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database
+*.db
+*.sqlite3
+/sql_app.db # Если у тебя база данных SQLite с таким именем
